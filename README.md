@@ -1,4 +1,4 @@
 # TestGithubAction
 
 
-Add review lottery 2
+Add review lottery
